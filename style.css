@@ -1,0 +1,23 @@
+
+/* CSS Custom Properties */
+
+body {
+    height: 100vh;
+    height: 100vh; 
+    margin-left: 1in;
+    margin-right: 1in;
+    margin-top: 1in;
+    background-color: #10195A;
+    font-family: Camphor,Open Sans,Segoe UI,sans-serif;
+    font-weight: 400;
+    display: flexbox
+}
+
+h1 {
+    color: #e4bd5b;
+    text-align: center
+}
+
+dl {
+    color: #e4bd5b;
+}
