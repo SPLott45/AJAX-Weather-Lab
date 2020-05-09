@@ -40,3 +40,4 @@ function render() {
     $feels.html(weatherData.main.feels_like);
     $weather.html(weatherData.weather[0].description);
 }
+
